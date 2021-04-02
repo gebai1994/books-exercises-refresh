@@ -1,0 +1,2 @@
+/*it will return an error because foo is called in the global
+scope but it is declared inside a block scope.*/
